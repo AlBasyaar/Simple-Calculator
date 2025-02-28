@@ -1,0 +1,1 @@
+Python Kalkulator adalah program sederhana untuk operasi matematika dasar yang berjalan di terminal. Pengguna memasukkan angka, memilih operasi, dan melihat hasilnya. Cocok untuk belajar pemrograman Python.
